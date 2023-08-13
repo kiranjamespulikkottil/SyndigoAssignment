@@ -22,8 +22,8 @@ Steps:
     	python3 -m venv environmentName
 
 	3) Install all the requirements in the environment
-    	pip3 install -r requirements.txt
+    	install scrapy
 
 	5) Command for run the spider
     	scrapy crawl target -a url=...
-        eg : scrapy crawl target -a url="https://www.target.com/p/baby-trend-expedition-race-tec-jogger-travel-system-8211-ultra-gray/-/A-79344798"
+        eg : scrapy crawl target -a url=https://www.target.com/p/baby-trend-expedition-race-tec-jogger-travel-system-8211-ultra-gray/-/A-79344798
