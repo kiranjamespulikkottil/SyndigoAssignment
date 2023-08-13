@@ -1,0 +1,41 @@
+{
+    "url": "https://www.target.com/p/-/A-85781566",
+    "product_title": "Allegra K Women's Chunky Heel Lace Up Zipper Combat Boots",
+    "tcin": "85781566",
+    "upc": "782685948357",
+    "price_amount": null,
+    "currency": "USD",
+    "description": "Perfectly designed for steady steps, as it features a single, slim sole that ideally balances the heel height with the rest of the design of the sleek shoe. You can pair it with skirts and skinny pants.\nPU vamp, textured and soft.\nRubber Outsole and ABS heel, anti-slip effectively.\nHeel Height: 2 5/9 inches, ShaftHeight: 3 7/8 inches.",
+    "specs": null,
+    "ingredients": [],
+    "bullets": "Vamp: PU; Outsole: TPR; Heel: ABS Low Platform, Round Toe, Padded Insole, Lug Sole; Chunky Heel, Lace Up Decor, Side Zipper Occasion: Office, Interview, Party, Casual, Halloween days, Christmas Days, Evening Good choice for halloween costumes and role playing Red, Black, Burgundy, Leopard Print: Heel Height: 2 1/8 inches; Coffee Color: Heel Height: 3 1/2 inches, Platform Height: 1 3/8 inches; ShaftHeight: 3 7/8 inches",
+    "features": [
+        {
+            "Care and Cleaning": "Spot or Wipe Clean"
+        },
+        {
+            "Footwear Insole Material": "100% Polyurethane"
+        },
+        {
+            "Features": "Zipper"
+        },
+        {
+            "Footwear Lining Material": "100% Polyester"
+        },
+        {
+            "Toe Style": "Round Toe"
+        },
+        {
+            "Heel": "Approximately 2.0 Inches Block Heel"
+        },
+        {
+            "Footwear Outsole Material": "100% TPR (Thermoplastic Rubber)"
+        },
+        {
+            "Footwear toe openness": "Closed Toe"
+        },
+        {
+            "Footwear upper material 1 percentage": "100"
+        }
+    ]
+}
